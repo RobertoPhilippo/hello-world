@@ -1,1 +1,1 @@
-# hello-world A RESPOTORY FOR MY TRIALS.
+# hello-world A REPOSITORY FOR MY TRIALS.
